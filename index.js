@@ -24,3 +24,4 @@ Promise.all(
 }
 
 )
+.catch( () => console.log('error'))
