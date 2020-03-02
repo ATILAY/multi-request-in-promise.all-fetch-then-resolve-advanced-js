@@ -17,8 +17,8 @@ Promise.all(
 .then(
  results => {
     console.log(results[0])
-    console.log(results[0])
-    console.log(results[0])
+    console.log(results[1])
+    console.log(results[2])
 
 
 }
